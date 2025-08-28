@@ -281,6 +281,8 @@ Syntax: df
 The find command is used to find a particular file within a directory.
 
 Syntax: find.-name”*.pdf”
+
+
 <img width="468" height="522" alt="Screenshot 2025-08-28 104954" src="https://github.com/user-attachments/assets/2f512871-229f-41b1-8374-015df4e21e2e" />
 
 ## Result:
