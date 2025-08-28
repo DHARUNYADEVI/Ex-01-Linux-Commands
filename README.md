@@ -169,7 +169,8 @@ The chmod command is used to change the access mode of a file (i.e., read, write
 
 Syntax: chmod<options><permissions><file_name>
 
-<img width="421" height="118" alt="Screenshot 2025-08-28 102812" src="https://github.com/user-attachments/assets/97c8ac9a-30dd-4068-a497-f76784d6aca0" />
+<img width="293" height="44" alt="image" src="https://github.com/user-attachments/assets/63623216-8ed7-4749-9f9f-06cdbebefb97" />
+
 
 
 ### 18)	tar Command
@@ -215,6 +216,8 @@ The chmod 777 command gives read, write and execute permission to the owner, gro
 
 Syntax: chmod 777 file_name
 $chmod -R 777 /path/to/file/or/folder
+
+<img width="421" height="118" alt="Screenshot 2025-08-28 102812" src="https://github.com/user-attachments/assets/97c8ac9a-30dd-4068-a497-f76784d6aca0" />
  
 ### 23)	host Command
 
