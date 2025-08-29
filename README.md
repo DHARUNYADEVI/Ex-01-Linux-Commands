@@ -115,7 +115,8 @@ The rename command is used to rename files. It is useful for renaming a large gr
 
 Syntax: rename 's/old-name/new-name/' files
 
-<img width="859" height="182" alt="image" src="https://github.com/user-attachments/assets/5ccbc288-7919-4c95-9ae0-415d565c2648" />
+<img width="615" height="129" alt="image" src="https://github.com/user-attachments/assets/ea83905f-eda3-40b7-8b9a-47b833da3f04" />
+
 
 
 ### 12)	head Command
@@ -225,7 +226,7 @@ The host command is used to display the IP address for a given domain name and v
 
 Syntax: host <domain name> or <ip address>
 
-<img width="834" height="72" alt="image" src="https://github.com/user-attachments/assets/958013f7-8e4d-4c34-bb5f-88a4473ef2ee" />
+
 
 
 ### 24)	gzip Command
@@ -251,7 +252,8 @@ Syntax:sort <file name>
 The cal command is used to display the current month's calendar with the current date highlighted.
 
 Syntax: cal
-<img width="802" height="144" alt="image" src="https://github.com/user-attachments/assets/f3074491-0ec0-4c36-be20-3a585666da01" />
+
+<img width="262" height="180" alt="image" src="https://github.com/user-attachments/assets/85bf40d3-9ebe-4982-8ec8-56ee273db5c1" />
 
 
 ### 27)	clear Command
