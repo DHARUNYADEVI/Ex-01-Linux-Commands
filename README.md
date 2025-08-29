@@ -199,8 +199,6 @@ The make command is used for building and maintaining group of program.
 
 Syntax: make [-f makefile][options]…….[targets]….
 
-<img width="805" height="87" alt="image" src="https://github.com/user-attachments/assets/310a46a0-2f52-47c0-ae9e-ebae0027dc36" />
-
 
 ### 21)	ifconfig Command
 
